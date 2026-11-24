@@ -48,7 +48,7 @@ RAG Testing/
 
 1. **Clone the repository or open the project directory:**
    ```bash
-   git clone ---
+   git clone https://github.com/SebasmarR/RAG-Testing
    ```
 
 2. **Create and activate a virtual environment:**
