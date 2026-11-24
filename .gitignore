@@ -1,0 +1,4 @@
+venv/
+documents/
+rag_chroma/
+__pycache__/
